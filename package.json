@@ -4,8 +4,8 @@
   "description": "Starter for your Electron application",
   "version": "0.0.0",
   "private": true,
-  "author": "Mr. Gumby <mr.gumby@example.com>",
-  "copyright": "© 2017, Gumby inc.",
+  "author": "SPC Networks",
+  "copyright": "© 2020, SPC Networks inc.",
   "homepage": "http://example.com",
   "main": "app/background.js",
   "build": {
